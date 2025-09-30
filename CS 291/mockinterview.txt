@@ -1,0 +1,40 @@
+Mike has been doing this interview for 25 years, 
+and it has been very successful for him and his company.
+(Only had one false positive.)
+
+TASK: Design a method that takes a string and 
+returns the longest substring that appears more than once.
+
+INSTRUCTIONS:
+    - Write this in pseudocode.
+        - Don't care ab function syntax or semantics.
+            - (If program compiles, you spent WAY to long on details. Mike wants to see how you solve PROBLEMS. THAT is the point of this task.)
+    - You'll oft be asked to think out loud.
+
+NOTES:
+   - Asking questions is good. This question is under-specified by design.
+   - Correct is always better than faster.
+
+******
+0 | None
+00 | 0
+01 | 0, 1
+011 | 1
+0111 | 11
+0011 | 0, 1
+abcabc | abc
+abcabcabc | abcabc
+
+*******
+
+String longest_substring(String string):
+    // get substring
+    var substring = get_substring( ???? )
+
+    // run along string to see if substring appears again
+    for idx in substring.range():
+        if idx + substring.size() > substring.len():
+            break
+        char = substring[idx]
+
+    // start over
