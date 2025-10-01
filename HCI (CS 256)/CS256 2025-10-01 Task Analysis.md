@@ -183,3 +183,30 @@ It's about finding ways to fit in with the user's existing ecosystem.
 - Rough out an interface design.
 
 Hughes had some examples of how the task analysis questions from above feeds into design...but she didn't have time in class to show us. (Tragic, truly.)
+
+# Lab
+
+## Investigation 4
+
+In groups, you'll automate a currently non-automated process, or improve a process that is automated but has issues (e.g. inefficiency, bad user experience, etc.).
+
+Don't recreate something that already exists. (Unless you are trying to make it significantly better.) It doesn't have to be mind-blowingly unique, but it does have to be new & unique.
+
+Today, you'll form your group. 4-5 people. (4 is ideal. No bigger than 5.)
+
+### Deliverable: FigJam doc URL
+
+Contents:
+
+- Name of project.
+- Problem you are trying to solve for creating this project, and why it's different from existing projects. (~2 paragraphs.)
+- Briefly describe your target user. (~1 paragraph.)
+- High level description of what your product will do&mdash;i.e. features. (5-10 bullet points.)
+
+Only one person in your group needs to submit deliverables. (Just make sure the person who said they'll submit actually submits it!!!)
+
+### Note on group projects
+
+Hughes aknowledge group projects get a bad wrap, but if you get a job in UX (or CS), 99.9% of the time you'll be working on a team. (And most of the time, you won't get to choose who to work with.) Part of this class *is* learning how to be on a team. 
+
+Hughes said the key for success is showing up. 99% of being a good team member is showing up and doing the work you agreed to.
