@@ -1,0 +1,23 @@
+1.2
+
+- length & distance of vecs
+- angle btwn vecs
+- projection formula
+
+2.2
+
+- parametric vec form of solutions for sys of eqs.
+
+2.3 
+
+- "Understand how to think of a system of equations as a vector equation (solving for a vector as a linear combination of other vectors)"
+
+3.1
+
+- "Understand the matrix-column representation of matrix multiplication and understand that Ax is a linear combination of the columns of A."
+
+3.3
+
+- "Understand how to solve systems when the coefficient matrix is invertible. Understand the relation between invertibility and uniqueness of the solution to the corresponding system of equations."
+- "Know the Fundamental Theorem of Invertible Matrices (understand this really well)"
+- "Understand that you only need to check one side of the matrix multiplication to verify something is invertible (Theorem 3.13 in the book)."
